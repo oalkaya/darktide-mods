@@ -12,7 +12,7 @@ mod.current_fov_mode = mod:get("fov_mode")
 local function apply_globals_to_runtime()
 	local data = mod:persistent_table("data")
 
-	local ranged_zoom = mod:get("weapon_zoom_fov") or 45
+	local ranged_zoom = mod:get("weapon_zoom_fov") or 45 -- 65 seems like the default for hipfire weapon zoom fov as well, with 65 there is no zoom in our out effect on the world when ads/unads-ing
 	local ranged_fov  = mod:get("weapon_fov") or 40
 	local ranged_ads  = mod:get("weapon_fov_ads") or 40
 	local melee_fov   = mod:get("melee_weapon_fov") or 65
