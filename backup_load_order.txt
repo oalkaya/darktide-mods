@@ -1,0 +1,29 @@
+-- ################################################################
+-- Enter user mod names below, separated by line.
+-- Order in the list determines the order in which mods are loaded.
+-- Do not rename a mod's folders.
+-- You do not need to include 'base' or 'dmf' mod folders.
+-- ################################################################
+animation_events
+audible_successful_dodge
+BrokerStimTimer
+character_cosmetics_view_improved
+creature_spawner
+custom_hud
+debuff_indicator
+DisableScreenEffects
+guarantee_weapon_swap
+Healthbars
+KillfeedImprovements
+loadout_config
+master_item_community_patch
+no_dodge_jump
+PerilGauge
+RecolorBossHealthBars
+RemoveTagSkulls
+show_crit_chance
+smaller_talent_tree
+SimpleSpeedMeter
+true_level
+weapon_cosmetics_view_improved
+SoloPlay
